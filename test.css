@@ -1,0 +1,23 @@
+/* Estilo para a barra de navegação */
+.navbar {
+    height: 60px;
+    /* Altura da barra de navegação */
+}
+
+/* Estilo para o título na offcanvas */
+.offcanvas-title {
+    font-size: 1.2rem;
+    /* Tamanho da fonte do título */
+}
+
+/* Estilo para o corpo do offcanvas */
+.offcanvas-body {
+    padding: 15px;
+    /* Espaçamento interno do corpo do offcanvas */
+}
+
+/* Estilo para o formulário de busca */
+.form-control {
+    border-radius: 20px;
+    /* Borda arredondada do campo de busca */
+}
